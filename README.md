@@ -15,7 +15,7 @@ This is a functional dependency free rewrite of [Travleing through Space](https:
 <!-- Have this canvas in your markup -->
 <canvas id="canvas"></canvas>
 <!-- Import the script like -->
-<script src="" type=""></script>
+<script src="https://cdn.jsdelivr.net/gh/fippli/space-travel-background-animation/dist/space-travel.min.js" type=""></script>
 ```
 
 Suggested `css` for fullscreen
