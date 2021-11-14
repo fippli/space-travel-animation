@@ -1,8 +1,8 @@
-# Space background animation
+# Space Travel Animation
 
 This is a functional dependency free rewrite of [Travleing through Space](https://codepen.io/chrisyboy53/pen/oXZzQb) by [@chrisyboy53](https://codepen.io/chrisyboy53).
 
-**[PREVIEW](https://fippli.se/space-travel-background-animation)**
+**[PREVIEW](https://fippli.se/space-travel-animation)**
 
 ## Development
 
@@ -15,7 +15,7 @@ This is a functional dependency free rewrite of [Travleing through Space](https:
 <!-- Have this canvas in your markup -->
 <canvas id="space-canvas"></canvas>
 <!-- Import the script like -->
-<script src="https://cdn.jsdelivr.net/gh/fippli/space-travel-background-animation/dist/space-travel.min.js" type="text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/gh/fippli/space-travel-animation/dist/space-travel.min.js" type="text/javascript"></script>
 ```
 
 Suggested `css` for fullscreen
