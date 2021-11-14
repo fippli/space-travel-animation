@@ -115,7 +115,7 @@ const render = (canvas, stars)=>()=>{
 ;
 const main = (canvas)=>{
     initiateCanvas(canvas);
-    const stars = range(1000).map((_)=>star({
+    const stars = range(200).map((_)=>star({
             velocity: VELOCITY,
             speed: 0.075,
             color: getColor(),

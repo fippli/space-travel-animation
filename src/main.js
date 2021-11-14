@@ -24,7 +24,7 @@ const render = (canvas, stars) =>
 const main = (canvas) => {
   initiateCanvas(canvas);
 
-  const stars = range(1000).map((_) =>
+  const stars = range(200).map((_) =>
     star({
       velocity: VELOCITY,
       speed: SPEED,
